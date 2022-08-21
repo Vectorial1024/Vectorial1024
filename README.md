@@ -6,7 +6,10 @@
   - X: Rebirth
   - X4: Foundations
 - 💻 I am a programmer:
-  - (...)
+  - Backend specialization
+  - Substance over presentation, quality over quantity
+  - Every small step shall be confident; every venture shall be well-planned
+  - Axioms, lemmas, theorems, proofs, hypotheses, conjectures 
 
 <!---
 Vectorial1024/Vectorial1024 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
