@@ -9,7 +9,7 @@
   - Backend specialization
   - Substance over presentation, quality over quantity
   - Small and elegant solutions for essential practical problems
-  - Every small step shall be confident; every venture shall be well-planned
+  - Every step shall be confident; every venture shall be well-planned
   - Axioms, lemmas, theorems, proofs, hypotheses, conjectures 
 
 <!---
